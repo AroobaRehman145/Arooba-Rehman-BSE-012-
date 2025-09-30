@@ -1,0 +1,45 @@
+
+## 🎯 Objective
+To install and configure Ubuntu on a virtual machine using VMware Workstation.  
+This lab helps students understand virtualization and Linux environment setup.
+
+---
+
+## ⚙️ Procedure / Steps
+
+1. Download and install VMware Workstation.  
+2. Download the Ubuntu ISO file from the official website.  
+3. Create a new virtual machine in VMware.  
+4. Attach the Ubuntu ISO to the virtual CD/DVD drive.  
+5. Start the VM and follow installation prompts.  
+6. Configure disk space, username, and password.  
+7. Complete installation and log in to Ubuntu.  
+8. Test the network by running basic commands like `ping google.com`.
+
+---
+
+## 📸 Screenshots
+
+| Step | Description | Screenshot |
+|------|--------------|-------------|
+| 1 | VMware Workstation launched and new virtual machine created | ![Screenshot1](screenshots/screenshot1.png) |
+| 2 | Ubuntu ISO selected for installation | ![Screenshot2](screenshots/screenshot2.png) |
+| 3 | Ubuntu installation progress screen | ![Screenshot3](screenshots/screenshot3.png) |
+| 4 | Ubuntu login screen displayed successfully | ![Screenshot4](screenshots/screenshot4.png) |
+| 5 | Terminal test using `ping google.com` showing connectivity | ![Screenshot5](screenshots/screenshot5.png) |
+
+---
+
+## 📊 Results / Output
+Ubuntu was successfully installed and configured in VMware.  
+Network connectivity was verified through terminal commands.
+
+---
+
+## 💡 Conclusion
+This lab provided hands-on experience with virtualization and Linux installation.  
+Students learned to set up, run, and test Ubuntu in a virtualized environment using VMware Workstation.
+
+---
+
+© Fatima Jinnah Women University – CC Lab 1
